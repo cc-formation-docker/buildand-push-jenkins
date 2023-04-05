@@ -1,5 +1,5 @@
 version: '3.8'
 
 services:
-  web0:
-   image: nginx
+  webcedric:
+   image: registry.ludovic.tech/cedric/app:3.8
